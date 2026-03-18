@@ -11,3 +11,4 @@ wheels/
 
 # Other files
 uv.lock
+game_state.jsonl
